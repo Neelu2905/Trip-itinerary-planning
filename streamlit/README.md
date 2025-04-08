@@ -6,7 +6,6 @@ Make sure you have the following installed before running the project:
 - [Streamlit](https://streamlit.io/) (Install using `pip install streamlit`)
 
 ## Installation and Running the Project
-
 Follow these steps to set up and run the project:
 
 ### Step 1: Download the Project
@@ -35,5 +34,13 @@ python -m streamlit run script.py
 ```sh
 streamlit run script.py
 ```
+
+### Recommended City: Osaka
+### Recommended Co-ordinates for Osaka:
+Source Latitude: 34.655
+Source Longitude: 135.43
+
+Destination Latitude: 34.645
+Destination Longitude: 135.504
 
 
