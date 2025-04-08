@@ -37,10 +37,10 @@ streamlit run script.py
 
 ### Recommended City: Osaka
 ### Recommended Co-ordinates for Osaka:
-Source Latitude: 34.655
-Source Longitude: 135.43
+-Source Latitude: 34.655
+-Source Longitude: 135.43
 
-Destination Latitude: 34.645
-Destination Longitude: 135.504
+-Destination Latitude: 34.645
+-Destination Longitude: 135.504
 
 
